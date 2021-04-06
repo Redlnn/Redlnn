@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋  [![HitCount](http://hits.dwyl.com/Redlnn/Redlnn.svg)](https://github.com/Redlnn)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Redlnn&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true)](https://github.com/Redlnn)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Redlnn&repo=Redlnn&show_owner=true&theme=slateorange)](https://github.com/Redlnn/Redlnn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redlnn&theme=slateorange&layout=compact)](https://github.com/Redlnn)
 
 <!--
 **Redlnn/Redlnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
