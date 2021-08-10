@@ -1,4 +1,4 @@
-### Hi there 👋  [![HitCount](http://hits.dwyl.com/Redlnn/Redlnn.svg)](https://github.com/Redlnn)
+### Hi! 👋
 
 <a href="https://github.com/Redlnn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Redlnn&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true&locale=cn" />
